@@ -7,7 +7,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("📄 AI Resume Analyzer")
+st.title("📄 Akshith's AI Resume Analyzer")
 st.caption("Upload your resume and get professional feedback")
 
 uploaded_file = st.file_uploader(
