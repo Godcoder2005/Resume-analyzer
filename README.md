@@ -71,7 +71,7 @@ frontend - file
 
 ```bash
 # Clone the repository
-git clone <your-github-repo-link>
+git clone https://github.com/Godcoder2005/Resume-analyzer.git
 
 # Navigate to project directory
 cd Resume-Analyzer
